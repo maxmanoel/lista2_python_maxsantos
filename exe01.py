@@ -1,1 +1,1 @@
-print ("max")
+print("max")
